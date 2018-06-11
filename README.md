@@ -2,4 +2,7 @@
 
 An introduction into function within Ruby and how to use them
 
-### Learnt: 
+### Learnt:
+* How to invoke functions in Ruby and pass arguments
+* How to use splats as arguments
+* Best practice regarding naming conventions
